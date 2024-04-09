@@ -9,5 +9,3 @@
 - 👨‍💻 All of my projects are available on Github
 - 💬 Ask me about **Cloud Services, IoT, Large Data Processing**
 - 📫 How to reach me **jackwilliams2480@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackwilliams2480&show_icons=true&locale=en&layout=compact&theme=radical" alt="jackwilliams2480" /></p>
