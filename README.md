@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A passionate software developer from Boston</h3>
 
 - 🔭 I’m currently working on:
   - ⚡ IoT Platform and Cloud Processes for Quanterion [https://www.quanterion.com/internet-of-things-iot-lab/]
